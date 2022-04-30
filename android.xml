@@ -1,0 +1,11 @@
+<resources>
+  <string name="identifier_1">String for translation 1</string>
+  <string name="identifier_2" comment="Type string's context here">String for translation 2</string>
+  <string name="identifier_3">String for translation 3</string>
+  <string name="identifier_4" translatable="false">String for translation 4</string>
+  <string name="identifier_5" maxLength="15"> String for translation 5</string>
+  <plurals name="apples_count">
+    <item quantity="one">%s apple</item>
+    <item quantity="other">%s apples</item>
+  </plurals>
+</resources>
