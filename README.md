@@ -1,4 +1,4 @@
 # MyApp
 
-This is some random text nobody is going to read 
+This is some random text everybody is going to read 
 
